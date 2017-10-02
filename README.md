@@ -10,4 +10,4 @@ In this example I was also struggling with the fact that the Rest-API that I was
 
 Here's what you get in addition to angry red noise:
 
-![alt text](https://github.com/robertiansweetman/Powershell-Invoke-RestMethod/Post-method.png)
+![alt text](/Post-method.png "errors for Invoke-RestMethod")
