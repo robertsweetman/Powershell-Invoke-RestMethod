@@ -70,6 +70,5 @@ function POST-Method {
     }
     
 }
-}
 
 POST-Method -Uri "https://example" -Body $body -Verbose
